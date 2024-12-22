@@ -4,7 +4,8 @@ TasteTrove is a modern food ordering website designed with HTML, CSS, and Bootst
 
 ## Screenshots
 
-![App Screenshot](https://github.com/Sivani-Dangudubiyyam/Prasunet_WD_01/blob/main/Preview.png)
+![App Screenshot](https://github.com/Sivani-Dangudubiyyam/Prasunet_WD_01/blob/main/Preview.png) 
+
 
 ![App Screenshot](https://github.com/Sivani-Dangudubiyyam/Prasunet_WD_01/blob/main/preview2.png)
 
